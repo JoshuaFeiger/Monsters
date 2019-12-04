@@ -1,0 +1,2 @@
+﻿Sid|145|happy
+Lucy|125|bored
