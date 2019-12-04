@@ -1,2 +1,4 @@
-﻿Sid|145|happy
-Lucy|125|bored
+﻿Sid|145|happy|Jankenpon|snowballGang|True|5/28/1874 12:00:00 AM
+Lucy|125|bored|Isogashiinara|gamers|True|3/17/1894 12:00:00 AM
+Ying|15|happy|West Town|goodChildren|True|5/1/2004 12:00:00 AM
+Yang|-15|sad|East Town|badChildren|False|11/1/2034 12:00:00 AM
