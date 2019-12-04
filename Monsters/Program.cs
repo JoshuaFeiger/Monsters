@@ -13,7 +13,7 @@ namespace Monsters
     // Description: Demonstration of classes and objects
     // Author: Joshua Caleb Feiger
     // Dated Created: 11/25/2019
-    // Last Modified: 12/2/2019
+    // Last Modified: 12/4/2019
     //
     // **************************************************    
     class Program
